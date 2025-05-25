@@ -27,4 +27,5 @@ group :other_plugins do
     gem 'css_parser'
     gem 'feedjira'
     gem 'httparty'
+    gem 'uri', '0.10.1' if ENV['CI']
 end
