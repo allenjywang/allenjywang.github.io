@@ -19,7 +19,7 @@ social: false # includes social icons at the bottom of the page
 
 Hi there! 
 
-I am a programmer at Tencent. Prior to joining the company, I obtained my master degree and bachelor degree from ShanghaiTech University and South China University of Technology, both in Computer Science.
+I am an incoming PhD student at Inria, funded by MSCA Doctoral Networks. Previously, I was a programmer at Tencent working on game development. I obtained my master degree and bachelor degree from ShanghaiTech University and South China University of Technology, both in Computer Science.
 
 In my spare time, I enjoy reading, working out, travelling, writing, and watching game streams. I used to play various games extensively in my young age. Now I'm still a big fan of games, but more as a viewer.
 
