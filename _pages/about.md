@@ -23,4 +23,4 @@ I am an incoming PhD student at Inria, funded by MSCA Doctoral Networks. Previou
 
 In my spare time, I enjoy reading, working out, travelling, writing, and watching game streams. I used to play various games extensively in my young age. Now I'm still a big fan of games, but more as a viewer.
 
-欢迎关注我的个人公众号：井夜。
+欢迎关注我的个人公众号：[井夜](https://raw.githubusercontent.com/allenjywang/allenjywang.github.io/refs/heads/main/assets/img/wx.jpg)。
