@@ -96,9 +96,6 @@ blockquote {
   width: 100%;
 
   .address {
-    margin-bottom: 5px;
-    margin-top: 5px;
-    font-family: monospace;
     p {
       display: inline-block;
       margin: 0;
@@ -251,10 +248,11 @@ blockquote {
 // Social (bottom)
 
 .social {
-  text-align: center;
+  text-align: left;
   .contact-icons {
-    font-size: 4rem;
+    font-size: 1.5rem;
     a {
+      margin-right: 8px;
       i::before {
         color: var(--global-text-color);
         transition-property: all 0.2s ease-in-out;

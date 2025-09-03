@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2025-04-15
+date: 2025-09-01
 inline: true
 ---
 
-我创建了我的个人公众号“井夜”，欢迎关注！
+I started my PhD journey in Inria! Looking forward to making some impact!
