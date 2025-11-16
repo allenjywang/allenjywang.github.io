@@ -34,11 +34,6 @@ jobs:
           libheif1 libheif-dev \
           webp
 
-    - name: Check ImageMagick formats
-      run: |
-        which convert || echo "convert not found"
-        magick -list format | grep -Ei 'heic|webp' || convert -list format | grep -Ei 'heic|webp' || true
-
     - name: Install deps
       run: |
         npm install -g mermaid.cli
