@@ -2,7 +2,7 @@
 layout: page
 title: Shanghai & Xi'an
 description: June, 2025. For the past.
-img: assets/img/travels/Shanghai/Shanghai25_Tower.heic
+img: assets/img/travels/Shanghai/Shanghai25_Tower.jpeg
 category: 2025
 index: 4
 ---
@@ -13,13 +13,13 @@ I have lived in Shanghai for almost six years. I really enjoy my days here.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/travels/Shanghai/Shanghai25_Tower.heic" caption="The Bund" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/travels/Shanghai/Shanghai25_Tower.jpeg" caption="The Bund" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
 <div class="row">
     <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/travels/Shanghai/Shanghai25_Bund.heic" caption="24.06.2025 at North Bund<br>Almost my last day in Shanghai" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/travels/Shanghai/Shanghai25_Bund.jpeg" caption="24.06.2025 at North Bund<br>Almost my last day in Shanghai" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-4 mt-3 mt-md-0">
         {% include figure.html path="assets/img/travels/Shanghai/Shanghai19_ShanghaiTech.jpg" caption="15.03.2019 at ShanghaiTech <br>Almost my first day in Shanghai" class="img-fluid rounded z-depth-1" %}
@@ -54,10 +54,10 @@ I have lived in Shanghai for almost six years. I really enjoy my days here.
 
 <div class="row justify-content-sm-center">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/travels/Xian/Xian25_Bud1.heic" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/travels/Xian/Xian25_Bud1.jpeg" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/travels/Xian/Xian25_Bud2.heic" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/travels/Xian/Xian25_Bud2.jpeg" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -66,9 +66,9 @@ I have lived in Shanghai for almost six years. I really enjoy my days here.
 
 <div class="row justify-content-sm-center">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/travels/Xian/Xian25_JianZhen.heic" caption="Jianzhen Monk" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/travels/Xian/Xian25_JianZhen.jpeg" caption="Jianzhen Monk" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/travels/Xian/Xian25_XuanZang.heic" caption="Xuanzang Monk" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/travels/Xian/Xian25_XuanZang.jpeg" caption="Xuanzang Monk" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
