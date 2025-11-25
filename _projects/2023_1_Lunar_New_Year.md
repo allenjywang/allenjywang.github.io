@@ -11,13 +11,13 @@ index: 1
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/travels/Guangdong/FS_lion_dance_01.jpg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/travels/Guangdong/FS_lion_dance_01.jpg" class="img-fluid rounded z-depth-1" clickable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/travels/Guangdong/FS_lion_dance_02.jpg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/travels/Guangdong/FS_lion_dance_02.jpg" class="img-fluid rounded z-depth-1" clickable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/travels/Guangdong/FS_red_packet.jpg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/travels/Guangdong/FS_red_packet.jpg" class="img-fluid rounded z-depth-1" clickable=true %}
     </div>
 </div>
 <div class="caption">
@@ -26,10 +26,10 @@ index: 1
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/travels/Guangdong/FS_QianDeng_01.jpg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/travels/Guangdong/FS_QianDeng_01.jpg" class="img-fluid rounded z-depth-1" clickable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/travels/Guangdong/FS_QianDeng_02.jpg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/travels/Guangdong/FS_QianDeng_02.jpg" class="img-fluid rounded z-depth-1" clickable=true %}
     </div>
 </div>
 <div class="caption">
@@ -40,7 +40,7 @@ index: 1
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/travels/Guangdong/SG_water.jpg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/travels/Guangdong/SG_water.jpg" class="img-fluid rounded z-depth-1" clickable=true %}
     </div>
 </div>
 <div class="caption">
@@ -49,10 +49,10 @@ index: 1
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/travels/Guangdong/SG_YangYuan_01.jpg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/travels/Guangdong/SG_YangYuan_01.jpg" class="img-fluid rounded z-depth-1" clickable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/travels/Guangdong/SG_YangYuan_02.jpg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/travels/Guangdong/SG_YangYuan_02.jpg" class="img-fluid rounded z-depth-1" clickable=true %}
     </div>
 </div>
 <div class="caption">
@@ -61,10 +61,10 @@ index: 1
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/travels/Guangdong/SG_lake_01.jpg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/travels/Guangdong/SG_lake_01.jpg" class="img-fluid rounded z-depth-1" clickable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/travels/Guangdong/SG_lake_02.jpg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/travels/Guangdong/SG_lake_02.jpg" class="img-fluid rounded z-depth-1" clickable=true %}
     </div>
 </div>
 <div class="caption">
@@ -73,10 +73,10 @@ index: 1
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/travels/Guangdong/SG_YangYuan_03.jpg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/travels/Guangdong/SG_YangYuan_03.jpg" class="img-fluid rounded z-depth-1" clickable=true %}
     </div>
     <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/travels/Guangdong/SG_YangYuan_04.jpg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/travels/Guangdong/SG_YangYuan_04.jpg" class="img-fluid rounded z-depth-1" clickable=true %}
     </div>
 </div>
 <div class="caption">
@@ -85,10 +85,10 @@ index: 1
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/travels/Guangdong/SG_ZhangLao_01.jpg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/travels/Guangdong/SG_ZhangLao_01.jpg" class="img-fluid rounded z-depth-1" clickable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/travels/Guangdong/SG_ZhangLao_02.jpg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/travels/Guangdong/SG_ZhangLao_02.jpg" class="img-fluid rounded z-depth-1" clickable=true %}
     </div>
 </div>
 <div class="caption">
@@ -97,7 +97,7 @@ index: 1
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/travels/Guangdong/sunrise.png" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/travels/Guangdong/sunrise.png" class="img-fluid rounded z-depth-1" clickable=true %}
     </div>
 </div>
 <div class="caption">
@@ -106,7 +106,7 @@ index: 1
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/travels/Guangdong/SG_ZhangLao_03_P.jpg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/travels/Guangdong/SG_ZhangLao_03_P.jpg" class="img-fluid rounded z-depth-1" clickable=true %}
     </div>
 </div>
 <div class="caption">

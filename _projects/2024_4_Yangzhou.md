@@ -13,10 +13,10 @@ We drive to Yangzhou this time to take in the sights. Even though it isn't exact
 
 <div class="row justify-content-sm-center">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/travels/Yangzhou/Yangzhou_SXH2.jpg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/travels/Yangzhou/Yangzhou_SXH2.jpg" class="img-fluid rounded z-depth-1" clickable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/travels/Yangzhou/Yangzhou_SXH3.jpg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/travels/Yangzhou/Yangzhou_SXH3.jpg" class="img-fluid rounded z-depth-1" clickable=true %}
     </div>
 </div>
 <div class="caption">
@@ -25,7 +25,7 @@ We drive to Yangzhou this time to take in the sights. Even though it isn't exact
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/travels/Yangzhou/Yangzhou_PJ.jpg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/travels/Yangzhou/Yangzhou_PJ.jpg" class="img-fluid rounded z-depth-1" clickable=true %}
     </div>
 </div>
 <div class="caption">
@@ -34,13 +34,13 @@ We drive to Yangzhou this time to take in the sights. Even though it isn't exact
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/travels/Yangzhou/Yangzhou_PJ1.jpg" caption="Littleleaf Box" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/travels/Yangzhou/Yangzhou_PJ1.jpg" caption="Littleleaf Box" class="img-fluid rounded z-depth-1" clickable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/travels/Yangzhou/Yangzhou_PJ2.jpg" caption="Azalea" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/travels/Yangzhou/Yangzhou_PJ2.jpg" caption="Azalea" class="img-fluid rounded z-depth-1" clickable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/travels/Yangzhou/Yangzhou_PJ3.jpg" caption="Yew Podocarpus" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/travels/Yangzhou/Yangzhou_PJ3.jpg" caption="Yew Podocarpus" class="img-fluid rounded z-depth-1" clickable=true %}
     </div>
 </div>
 
@@ -48,10 +48,10 @@ We drive to Yangzhou this time to take in the sights. Even though it isn't exact
 
 <div class="row justify-content-sm-center">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/travels/Yangzhou/Yangzhou_JianZhen1.jpg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/travels/Yangzhou/Yangzhou_JianZhen1.jpg" class="img-fluid rounded z-depth-1" clickable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/travels/Yangzhou/Yangzhou_JianZhen2.jpg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/travels/Yangzhou/Yangzhou_JianZhen2.jpg" class="img-fluid rounded z-depth-1" clickable=true %}
     </div>
 </div>
 <div class="caption">
@@ -60,10 +60,10 @@ We drive to Yangzhou this time to take in the sights. Even though it isn't exact
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/travels/Yangzhou/Yangzhou_Temple2.jpg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/travels/Yangzhou/Yangzhou_Temple2.jpg" class="img-fluid rounded z-depth-1" clickable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/travels/Yangzhou/Yangzhou_Temple3.jpg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/travels/Yangzhou/Yangzhou_Temple3.jpg" class="img-fluid rounded z-depth-1" clickable=true %}
     </div>
 </div>
 <div class="caption">
@@ -74,7 +74,7 @@ We drive to Yangzhou this time to take in the sights. Even though it isn't exact
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/travels/Yangzhou/Yangzhou_Heyuan3.jpg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/travels/Yangzhou/Yangzhou_Heyuan3.jpg" class="img-fluid rounded z-depth-1" clickable=true %}
     </div>
 </div>
 <div class="caption">
@@ -83,10 +83,10 @@ We drive to Yangzhou this time to take in the sights. Even though it isn't exact
 
 <div class="row justify-content-sm-center">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/travels/Yangzhou/Yangzhou_Heyuan1.jpg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/travels/Yangzhou/Yangzhou_Heyuan1.jpg" class="img-fluid rounded z-depth-1" clickable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/travels/Yangzhou/Yangzhou_Heyuan2.jpg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/travels/Yangzhou/Yangzhou_Heyuan2.jpg" class="img-fluid rounded z-depth-1" clickable=true %}
     </div>
 </div>
 <div class="caption">

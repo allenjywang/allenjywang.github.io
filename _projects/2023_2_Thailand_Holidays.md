@@ -11,10 +11,10 @@ index: 2
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/travels/Thailand/Thai01.jpeg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/travels/Thailand/Thai01.jpeg" class="img-fluid rounded z-depth-1" clickable=true %}
     </div>
     <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/travels/Thailand/Thai02.jpeg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/travels/Thailand/Thai02.jpeg" class="img-fluid rounded z-depth-1" clickable=true %}
     </div>
 </div>
 <div class="caption">
@@ -23,7 +23,7 @@ index: 2
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/travels/Thailand/ThaiSimon.jpeg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/travels/Thailand/ThaiSimon.jpeg" class="img-fluid rounded z-depth-1" clickable=true %}
     </div>
 </div>
 <div class="caption">
@@ -32,13 +32,13 @@ index: 2
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/travels/Thailand/ThaiFood01.jpg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/travels/Thailand/ThaiFood01.jpg" class="img-fluid rounded z-depth-1" clickable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/travels/Thailand/ThaiFood02.jpeg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/travels/Thailand/ThaiFood02.jpeg" class="img-fluid rounded z-depth-1" clickable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/travels/Thailand/ThaiFood03.jpeg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/travels/Thailand/ThaiFood03.jpeg" class="img-fluid rounded z-depth-1" clickable=true %}
     </div>
 </div>
 <div class="caption">
@@ -47,10 +47,10 @@ index: 2
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/travels/Thailand/ThaiFood04.jpeg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/travels/Thailand/ThaiFood04.jpeg" class="img-fluid rounded z-depth-1" clickable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/travels/Thailand/ThaiFood05.jpg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/travels/Thailand/ThaiFood05.jpg" class="img-fluid rounded z-depth-1" clickable=true %}
     </div>
 </div>
 <div class="caption">
@@ -61,7 +61,7 @@ index: 2
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/travels/Thailand/Thai03.jpeg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/travels/Thailand/Thai03.jpeg" class="img-fluid rounded z-depth-1" clickable=true %}
     </div>
 </div>
 <div class="caption">
@@ -70,10 +70,10 @@ index: 2
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/travels/Thailand/Thai04.jpeg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/travels/Thailand/Thai04.jpeg" class="img-fluid rounded z-depth-1" clickable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/travels/Thailand/Thai05.png" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/travels/Thailand/Thai05.png" class="img-fluid rounded z-depth-1" clickable=true %}
     </div>
 </div>
 <div class="caption">
@@ -82,10 +82,10 @@ index: 2
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/travels/Thailand/ThaiBoat.jpeg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/travels/Thailand/ThaiBoat.jpeg" class="img-fluid rounded z-depth-1" clickable=true %}
     </div>
     <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/travels/Thailand/ThatSunset.jpeg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/travels/Thailand/ThatSunset.jpeg" class="img-fluid rounded z-depth-1" clickable=true %}
     </div>
 </div>
 <div class="caption">
@@ -94,7 +94,7 @@ index: 2
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/travels/Thailand/ThaiPara.png" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/travels/Thailand/ThaiPara.png" class="img-fluid rounded z-depth-1" clickable=true %}
     </div>
 </div>
 <div class="caption">
@@ -103,10 +103,10 @@ index: 2
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/travels/Thailand/ThaiDeep01.png" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/travels/Thailand/ThaiDeep01.png" class="img-fluid rounded z-depth-1" clickable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/travels/Thailand/ThaiDeep02.png" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/travels/Thailand/ThaiDeep02.png" class="img-fluid rounded z-depth-1" clickable=true %}
     </div>
 </div>
 <div class="caption">

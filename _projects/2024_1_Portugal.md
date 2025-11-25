@@ -11,10 +11,10 @@ index: 1
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/travels/Portugal/Lisbon24_1.jpg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/travels/Portugal/Lisbon24_1.jpg" class="img-fluid rounded z-depth-1" clickable=true %}
     </div>
     <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/travels/Portugal/Lisbon24_2.jpg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/travels/Portugal/Lisbon24_2.jpg" class="img-fluid rounded z-depth-1" clickable=true %}
     </div>
 </div>
 <div class="caption">
@@ -23,10 +23,10 @@ index: 1
 
 <div class="row justify-content-sm-center">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/travels/Portugal/Lisbon24_Monumento.jpg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/travels/Portugal/Lisbon24_Monumento.jpg" class="img-fluid rounded z-depth-1" clickable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/travels/Portugal/Lisbon24_Monumento2.jpg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/travels/Portugal/Lisbon24_Monumento2.jpg" class="img-fluid rounded z-depth-1" clickable=true %}
     </div>
 </div>
 <div class="caption">
@@ -35,10 +35,10 @@ index: 1
 
 <div class="row justify-content-sm-center">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/travels/Portugal/Lisbon24_Monastery.jpg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/travels/Portugal/Lisbon24_Monastery.jpg" class="img-fluid rounded z-depth-1" clickable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/travels/Portugal/Lisbon24_Monastery2.jpg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/travels/Portugal/Lisbon24_Monastery2.jpg" class="img-fluid rounded z-depth-1" clickable=true %}
     </div>
 </div>
 <div class="caption">
@@ -49,7 +49,7 @@ index: 1
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/travels/Portugal/Porto24_1.jpg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/travels/Portugal/Porto24_1.jpg" class="img-fluid rounded z-depth-1" clickable=true %}
     </div>
 </div>
 <div class="caption">
@@ -58,7 +58,7 @@ index: 1
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/travels/Portugal/Porto24_2.jpg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/travels/Portugal/Porto24_2.jpg" class="img-fluid rounded z-depth-1" clickable=true %}
     </div>
 </div>
 <div class="caption">
@@ -67,7 +67,7 @@ index: 1
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/travels/Portugal/Porto24_3.jpg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/travels/Portugal/Porto24_3.jpg" class="img-fluid rounded z-depth-1" clickable=true %}
     </div>
 </div>
 <div class="caption">

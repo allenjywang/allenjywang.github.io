@@ -13,10 +13,10 @@ I occasionally go to some cities around Shanghai to wander around and have a loo
 
 <div class="row justify-content-sm-center">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/travels/JiangNan/HangZhou01.jpeg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/travels/JiangNan/HangZhou01.jpeg" class="img-fluid rounded z-depth-1" clickable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/travels/JiangNan/HangZhou02.jpeg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/travels/JiangNan/HangZhou02.jpeg" class="img-fluid rounded z-depth-1" clickable=true %}
     </div>
 </div>
 <div class="caption">
@@ -25,7 +25,7 @@ I occasionally go to some cities around Shanghai to wander around and have a loo
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/travels/JiangNan/HangZhou03.jpeg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/travels/JiangNan/HangZhou03.jpeg" class="img-fluid rounded z-depth-1" clickable=true %}
     </div>
 </div>
 <div class="caption">
@@ -36,10 +36,10 @@ I occasionally go to some cities around Shanghai to wander around and have a loo
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/travels/JiangNan/WuZhen01.jpeg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/travels/JiangNan/WuZhen01.jpeg" class="img-fluid rounded z-depth-1" clickable=true %}
     </div>
     <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/travels/JiangNan/WuZhen02.jpeg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/travels/JiangNan/WuZhen02.jpeg" class="img-fluid rounded z-depth-1" clickable=true %}
     </div>
 </div>
 <div class="caption">
@@ -50,10 +50,10 @@ I occasionally go to some cities around Shanghai to wander around and have a loo
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/travels/JiangNan/ShaoXing01.jpeg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/travels/JiangNan/ShaoXing01.jpeg" class="img-fluid rounded z-depth-1" clickable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/travels/JiangNan/ShaoXing02.jpeg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/travels/JiangNan/ShaoXing02.jpeg" class="img-fluid rounded z-depth-1" clickable=true %}
     </div>
 </div>
 <div class="caption">
@@ -62,10 +62,10 @@ I occasionally go to some cities around Shanghai to wander around and have a loo
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/travels/JiangNan/ShaoXing03.jpeg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/travels/JiangNan/ShaoXing03.jpeg" class="img-fluid rounded z-depth-1" clickable=true %}
     </div>
     <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/travels/JiangNan/ShaoXing04.jpeg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/travels/JiangNan/ShaoXing04.jpeg" class="img-fluid rounded z-depth-1" clickable=true %}
     </div>
 </div>
 <div class="caption">
@@ -76,10 +76,10 @@ I occasionally go to some cities around Shanghai to wander around and have a loo
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/travels/JiangNan/NanJing01.jpeg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/travels/JiangNan/NanJing01.jpeg" class="img-fluid rounded z-depth-1" clickable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/travels/JiangNan/NanJing02.jpeg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/travels/JiangNan/NanJing02.jpeg" class="img-fluid rounded z-depth-1" clickable=true %}
     </div>
 </div>
 <div class="caption">
