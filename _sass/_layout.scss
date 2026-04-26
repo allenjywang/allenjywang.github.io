@@ -7,7 +7,12 @@ body {
   color: var(--global-text-color);
   background-color: var(--global-bg-color);
 
-  h1, h2, h3, h4, h5, h6 {
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
     scroll-margin-top: 66px;
   }
 }
@@ -47,4 +52,40 @@ body.sticky-bottom-footer {
 * Projects
 *****************************************************************************/
 
-// TODO: redefine projects layout.
+.post article,
+.post-content {
+  figure {
+    margin: 0 0 1rem;
+  }
+
+  .row.equalized-media-row {
+    align-items: flex-start;
+
+    >[class*="col"] {
+      display: flex;
+      justify-content: stretch;
+    }
+  }
+
+  figure.equalized-media-figure {
+    width: 100%;
+    text-align: center;
+
+    picture,
+    a {
+      display: block;
+      width: 100%;
+    }
+
+    img {
+      display: block;
+      width: 100%;
+      object-fit: cover;
+      object-position: center;
+    }
+
+    figcaption {
+      margin-top: 1rem;
+    }
+  }
+}
