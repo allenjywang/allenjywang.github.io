@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Dongji Island Hike
+title: Dongji Island Hike 🇨🇳
 description: April, 2024 · 6 hours hiking.
 img: assets/img/travels/Zhoushan/Zhoushan_Cover.jpg
 category: 2024

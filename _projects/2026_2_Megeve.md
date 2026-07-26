@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Megève
+title: Megève 🇫🇷
 description: Feb, 2026. One Week Skiing and Snowboarding
 img: assets/img/travels/2026/Feb/Megeve/Meg_ski.jpeg
 category: 2026

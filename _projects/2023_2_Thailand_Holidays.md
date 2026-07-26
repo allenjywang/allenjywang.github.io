@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Spring Holidays in Thailand
+title: Spring Holidays in Thailand 🇹🇭
 description: February, 2023 · 6 days in Thailand.
 img: assets/img/travels/Thailand/ThaiCover.png
 category: 2023

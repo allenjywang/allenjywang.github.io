@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Avignon
+title: Avignon 🇫🇷
 description: Apr, 2026. Five Days PhD Training
 img: assets/img/travels/2026/Apr/Avignon/Avignon_01.JPG
 category: 2026

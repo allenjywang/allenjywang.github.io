@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Cap Ferret
+title: Cap Ferret 🇫🇷
 description: Apr, 2026. 10KM Hiking
 img: assets/img/travels/2026/Apr/Ferrat/Ferrat_05.jpeg
 category: 2026

@@ -9,3 +9,7 @@ _site
 Gemfile.lock
 vendor
 
+.DS_Store
+assets/.DS_Store
+assets/img/.DS_Store
+assets/img/travels/.DS_Store

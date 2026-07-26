@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 2023 Lunar New Year in Guangdong
+title: 2023 Lunar New Year in Guangdong 🇨🇳
 description: January, 2023 · Family tours of Foshan and Shaoguan.
 img: assets/img/travels/Guangdong/SG_YangYuan_01.jpg
 category: 2023

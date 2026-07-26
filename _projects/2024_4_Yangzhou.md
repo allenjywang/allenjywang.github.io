@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Yangzhou
+title: Yangzhou 🇨🇳
 description: June, 2024 · Chinese Garden.
 img: assets/img/travels/Yangzhou/Yangzhou_Cover.jpg
 category: 2024

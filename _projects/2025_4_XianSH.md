@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Shanghai & Xi'an
+title: Shanghai & Xi'an 🇨🇳
 description: June, 2025. For the past.
 img: assets/img/travels/Shanghai/Shanghai25_Tower.jpeg
 category: 2025

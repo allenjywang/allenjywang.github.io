@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Visit to Portugal
+title: Visit to Portugal 🇵🇹
 description: January, 2024 · Lisbon & Porto.
 img: assets/img/travels/Portugal/Lisbon24_Cover.jpg
 category: 2024

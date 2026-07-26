@@ -1,6 +1,6 @@
 ---
 layout: page
-title: One-day Trips in Jiangnan Area
+title: One-day Trips in Jiangnan Area 🇨🇳
 description: March-August, 2023.
 img: assets/img/travels/JiangNan/cover.jpeg
 category: 2023

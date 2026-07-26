@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Beijing
+title: Beijing 🇨🇳
 description: June, 2025. Much more fun than I had expected!
 img: assets/img/travels/Beijing/Beijing25_Cover.jpeg
 category: 2025
